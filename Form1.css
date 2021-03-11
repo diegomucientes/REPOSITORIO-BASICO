@@ -1,0 +1,47 @@
+.container {
+    background-color: skyblue;
+    height: 50px;
+    width: 99%;
+    text-align: center;
+    line-height: 30px;
+    margin: 2 rem auto;
+    padding: 1rem;
+    display: table;
+    border-radius: 15px;
+
+
+   
+}
+.container h1{
+    margin:0;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 25 px;
+    margin-left: 100px;
+    text-align: center;
+
+
+}
+.MENU nav {
+    background-color: springgreen;
+    width: 2px;
+    height: 25px;
+    color: black;
+    font-size: small;
+    border-radius: 15px;
+    line-height: 25px;
+    border-color: black;
+}
+
+.container2{
+    background-color: slateblue;
+    height: 30px;
+    width: 1500px;
+    border-radius: 15px;
+    float: left;
+
+}
+#c21{
+    background-color: slateblue;
+
+}
